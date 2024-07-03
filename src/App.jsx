@@ -1,5 +1,6 @@
 
 
+import Appointment from './Appointment'
 import Banner from './Banner'
 import Care from './Care'
 import Faq from './Faq'
@@ -40,6 +41,10 @@ function App() {
 
       <div className='max-w-6xl mx-auto'>
         <Faq></Faq>
+      </div>
+
+      <div className='max-w-6xl mx-auto'>
+        <Appointment></Appointment>
       </div>
 
      
