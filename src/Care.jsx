@@ -30,7 +30,7 @@ const Care = () => {
              </div>
 
             </div>
-            <div style={cardStyle} className='ml-24'>
+            <div style={cardStyle} className='ml-16'>
                 <div>
                     <h2 className="text-4xl mt-4 ml-4 text-[#020043] font-semibold">50+</h2>
                     <p className="mt-4 ml-4 text-[#020043] ">

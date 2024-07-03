@@ -12,23 +12,23 @@ function App() {
   return (
     <>
       
-      <div className='max-w-7xl mx-auto'>
+      <div className='max-w-6xl mx-auto'>
         <NavBar></NavBar>
       </div>
 
-      <div className='max-w-7xl mx-auto'>
+      <div className='max-w-6xl mx-auto'>
         <Banner></Banner>
       </div>
 
-      <div className='max-w-7xl mx-auto'>
+      <div className='max-w-6xl mx-auto'>
         <Care></Care>
       </div>
 
-      <div className='max-w-7xl mx-auto'>
+      <div className='max-w-6xl mx-auto'>
         <Mission></Mission>
       </div>
 
-      <div className='max-w-7xl mx-auto'>
+      <div className='max-w-6xl mx-auto'>
         <Health></Health>
       </div>
 
