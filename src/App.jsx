@@ -2,6 +2,7 @@
 
 import Banner from './Banner'
 import Care from './Care'
+import Faq from './Faq'
 import Health from './Health'
 import Mission from './Mission'
 import NavBar from './NavBar'
@@ -35,6 +36,10 @@ function App() {
 
       <div className='max-w-6xl mx-auto'>
         <Reviews></Reviews>
+      </div>
+
+      <div className='max-w-6xl mx-auto'>
+        <Faq></Faq>
       </div>
 
      

@@ -2,7 +2,7 @@
 
 const Mission = () => {
     return (
-        <div className="my-20 grid grid-cols-2 gap-5">
+        <div className="my-20 grid lg:grid-cols-2 gap-5">
             <div className="mt-5">
                 <span className=" rounded-full border-[0.5px] border-[#020043] px-5 py-2 font-medium text-[#020043]">Who are we</span>
                 <h2 className="font-semibold text-4xl text-[#020043] pr-80 mt-8">

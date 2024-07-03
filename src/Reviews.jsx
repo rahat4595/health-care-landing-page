@@ -9,7 +9,7 @@ const Reviews = () => {
                     What they say about us
                 </h2>
             </div>
-            <div className="grid grid-cols-3 gap-5">
+            <div className="grid sm:grid-cols-1 lg:grid-cols-3 gap-5">
                 <div className="container flex flex-col w-full max-w-lg p-6 mx-auto divide-y rounded-md bg-[#ffc6370c]">
 
                     <div className="p-4 space-y-2 text-sm text-gray-400">
