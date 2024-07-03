@@ -42,7 +42,8 @@ const NavBar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className=" rounded-xl border-2 border-[#020043] px-5 py-2 font-medium text-[#020043]">Appointment</a>
+  <button className=" rounded-xl border-2 border-[#020043] px-5 py-2 font-medium text-[#020043] flex gap-2 ">Appointment <img className="mt-1" src="../src/assets/Arrow 1.png" alt="" /></button>
+    
   </div>
 </div>
         </div>

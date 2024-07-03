@@ -4,6 +4,7 @@ import Appointment from './Appointment'
 import Banner from './Banner'
 import Care from './Care'
 import Faq from './Faq'
+import Footer from './Footer'
 import Health from './Health'
 import Mission from './Mission'
 import NavBar from './NavBar'
@@ -47,6 +48,9 @@ function App() {
         <Appointment></Appointment>
       </div>
 
+    <div>
+      <Footer></Footer>
+    </div>
      
     </>
   )

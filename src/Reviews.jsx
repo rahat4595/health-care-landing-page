@@ -59,7 +59,7 @@ const Reviews = () => {
                             A Partner in Health and
                             Wellness
                         </h2>
-                        <p className="text-[#020043ba] text-xs">As a busy professional, I appreciate the convenience and quality of care I receive at [Healthcare Provider Name]. From telemedicine consultations to routine check-ups, they've become my trusted partner in health and</p>
+                        <p className="text-[#020043ba] text-xs">As a busy professional, I appreciate the convenience and quality of care I receive at [Healthcare Provider Name]. From telemedicine consultations to routine check-ups.</p>
                     </div>
                     <div className="flex justify-between p-4">
                         <div className="flex space-x-4">
