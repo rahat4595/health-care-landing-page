@@ -21,8 +21,10 @@ const Health = () => {
                         <img src="../src/assets/Rectangle 27-2.png" className="rounded-3xl" alt="" />
                     </div>
                     <div className="w-[321px] h-[144px] bg-[#343268c7] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-5 relative z-10">
-                        <h2 className="text-2xl font-medium text-white">Our Mission is simple</h2>
-                        <p className="text-gray-400">To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>
+                        <h2 className="text-xl font-medium text-white">Advanced Technology</h2>
+                        <div className="flex justify-between">
+                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="../src/assets/Group 28.png" alt="" />
+                        </div>
                     </div>
                 </div>
 
@@ -31,8 +33,10 @@ const Health = () => {
                         <img src="../src/assets/Rectangle 27-1.png" className="rounded-3xl" alt="" />
                     </div>
                     <div className="w-[321px] h-[144px] bg-[#343268c7] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-5 relative z-10">
-                        <h2 className="text-2xl font-medium text-white">Our Mission is simple</h2>
-                        <p className="text-gray-400">To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>
+                        <h2 className="text-xl font-medium text-white">Online Doctor Meet</h2>
+                        <div className="flex justify-between">
+                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="../src/assets/Group 28.png" alt="" />
+                        </div>
                     </div>
                 </div>
                 
@@ -41,8 +45,10 @@ const Health = () => {
                         <img src="../src/assets/Rectangle 27.png" className="rounded-3xl" alt="" />
                     </div>
                     <div className="w-[321px] h-[144px] bg-[#343268c7] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-5 relative z-10">
-                        <h2 className="text-2xl font-medium text-white">Our Mission is simple</h2>
-                        <p className="text-gray-400">To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>
+                        <h2 className="text-xl font-medium text-white">Consultancy your health</h2>
+                        <div className="flex justify-between">
+                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="../src/assets/Group 28.png" alt="" />
+                        </div>
                     </div>
                 </div>
 

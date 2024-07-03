@@ -5,6 +5,7 @@ import Care from './Care'
 import Health from './Health'
 import Mission from './Mission'
 import NavBar from './NavBar'
+import Reviews from './Reviews'
 
 function App() {
   
@@ -30,6 +31,10 @@ function App() {
 
       <div className='max-w-6xl mx-auto'>
         <Health></Health>
+      </div>
+
+      <div className='max-w-6xl mx-auto'>
+        <Reviews></Reviews>
       </div>
 
      
