@@ -8,7 +8,7 @@ const Care = () => {
 
     }
     return (
-        <div className="grid grid-cols-1fr-2fr-1fr my-10 ">
+        <div className="grid grid-cols-1  md:grid-cols-[1fr_2fr_1fr] my-10 ">
             <div style={cardStyle}>
                 <div>
                     <h2 className="text-4xl mt-4 ml-4 text-[#020043] font-semibold">90%</h2>

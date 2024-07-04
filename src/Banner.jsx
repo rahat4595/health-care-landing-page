@@ -7,7 +7,7 @@ const Banner = () => {
     };
 
     return (
-        <div className="rounded-2xl mt-10" style={bannerStyle}></div>
+        <div className=" rounded-2xl mt-10" style={bannerStyle}></div>
     );
 };
 

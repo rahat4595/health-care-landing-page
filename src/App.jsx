@@ -20,7 +20,7 @@ function App() {
         <NavBar></NavBar>
       </div>
 
-      <div className='max-w-6xl mx-auto'>
+      <div className='max-w-6xl mx-auto p-5'>
         <Banner></Banner>
       </div>
 
@@ -36,11 +36,11 @@ function App() {
         <Health></Health>
       </div>
 
-      <div className='max-w-6xl mx-auto'>
+      <div className='max-w-6xl mx-auto p-5'>
         <Reviews></Reviews>
       </div>
 
-      <div className='max-w-6xl mx-auto'>
+      <div className='max-w-6xl mx-auto p-5'>
         <Faq></Faq>
       </div>
 
