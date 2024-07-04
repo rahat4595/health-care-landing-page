@@ -17,7 +17,7 @@ const Mission = () => {
             </div>
             <div className="relative">
                 <div>
-                    <img src="../src/assets/Rectangle 24.png" alt="" />
+                    <img src="https://i.postimg.cc/Bv73rph6/Rectangle-24.png" alt="" />
                 </div>
                 <div className="w-[395px] h-[210px] bg-[#343268] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-[-5.75rem] relative z-10">
                     <h2 className="text-2xl font-medium text-white">Our Mission is simple</h2>

@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="lg:w-1/3 ">
                         <a rel="noopener noreferrer" href="#" className="flex justify-center space-x-3 lg:justify-start">
 
-                            <div> <img className="" src="../src/assets/logo light.png" alt="" />
+                            <div> <img className="" src="https://i.postimg.cc/Qd6vCtcY/logo-light.png" alt="" />
                                 <p className="mt-8 text-gray-400">123 Main Street Anytown, USA Postal Code: 12345</p>
                                 <div className="mt-5 text-gray-400">
                                     <p>Support: support@oyolloo.com</p>

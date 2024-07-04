@@ -30,7 +30,7 @@ const NavBar = () => {
       </ul>
     </div>
     <div>
-        <img src="../src/assets/logo dark.png" alt="" />
+        <img src="https://i.postimg.cc/QN28N6jK/logo-dark.png" alt="" />
     </div>
   </div>
   <div className="navbar-center hidden lg:flex">
@@ -42,7 +42,7 @@ const NavBar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-  <button className=" rounded-xl border-2 border-[#020043] px-5 py-2 font-medium text-[#020043] flex gap-2 ">Appointment <img className="mt-1" src="../src/assets/Arrow 1.png" alt="" /></button>
+  <button className=" rounded-xl border-2 border-[#020043] px-5 py-2 font-medium text-[#020043] flex gap-2 ">Appointment <img className="mt-1" src="https://i.postimg.cc/ncqHXvLR/Arrow-1.png" alt="" /></button>
     
   </div>
 </div>

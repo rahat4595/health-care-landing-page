@@ -21,11 +21,11 @@ const Reviews = () => {
                     <div className="flex justify-between p-4">
                         <div className="flex space-x-4">
                             <div>
-                                <img src="../src/assets/Ellipse 10.png" alt="" className="object-cover w-12 h-12 rounded-full bg-gray-500" />
+                                <img src="https://i.postimg.cc/Z5VzNjzc/Ellipse-10.png" alt="" className="object-cover w-12 h-12 rounded-full bg-gray-500" />
                             </div>
                             <div className="mt-2">
                                 <p className="text-xs text-gray-400"><span className="text-[#020043] font-semibold">Sarah D,</span> IT Professional</p>
-                                <img className="mt-2" src="../src/assets/Frame 10.png" alt="" />
+                                <img className="mt-2" src="https://i.postimg.cc/j2VpTFys/Frame-10.png" alt="" />
                             </div>
                         </div>
 
@@ -42,11 +42,11 @@ const Reviews = () => {
                     <div className="flex justify-between p-4">
                         <div className="flex space-x-4">
                             <div>
-                                <img src="../src/assets/Ellipse 10 (1).png" alt="" className="object-cover w-12 h-12 rounded-full bg-gray-500" />
+                                <img src="https://i.postimg.cc/ZqQk7RRv/Ellipse-10-1.png" alt="" className="object-cover w-12 h-12 rounded-full bg-gray-500" />
                             </div>
                             <div className="mt-2">
                                 <p className="text-xs text-gray-400"><span className="text-[#020043] font-semibold">Michael R,</span> Business Executive</p>
-                                <img className="mt-2" src="../src/assets/Frame 10.png" alt="" />
+                                <img className="mt-2" src="https://i.postimg.cc/j2VpTFys/Frame-10.png" alt="" />
                             </div>
                         </div>
 
@@ -64,11 +64,11 @@ const Reviews = () => {
                     <div className="flex justify-between p-4">
                         <div className="flex space-x-4">
                             <div>
-                                <img src="../src/assets/Ellipse 10 (2).png" alt="" className="object-cover w-12 h-12 rounded-full bg-gray-500" />
+                                <img src="https://i.postimg.cc/yd3MwHgQ/Ellipse-10-2.png" alt="" className="object-cover w-12 h-12 rounded-full bg-gray-500" />
                             </div>
                             <div className="mt-2">
                                 <p className="text-xs text-gray-400"><span className="text-[#020043] font-semibold">David S,</span> Lawyer</p>
-                                <img className="mt-2" src="../src/assets/Frame 10.png" alt="" />
+                                <img className="mt-2" src="https://i.postimg.cc/j2VpTFys/Frame-10.png" alt="" />
                             </div>
                         </div>
 

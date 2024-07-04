@@ -18,36 +18,36 @@ const Health = () => {
                 </div>
                 <div className="relative">
                     <div>
-                        <img src="../src/assets/Rectangle 27-2.png" className="rounded-3xl" alt="" />
+                        <img src="https://i.postimg.cc/MTcwqB4Y/Rectangle-27-2.png" className="rounded-3xl" alt="" />
                     </div>
                     <div className="w-[321px] h-[144px] bg-[#343268c7] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-5 relative z-10">
                         <h2 className="text-xl font-medium text-white">Advanced Technology</h2>
                         <div className="flex justify-between">
-                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="../src/assets/Group 28.png" alt="" />
+                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="https://i.postimg.cc/CLCghSv9/Group-28.png" alt="" />
                         </div>
                     </div>
                 </div>
 
                 <div className="relative mt-20">
                     <div>
-                        <img src="../src/assets/Rectangle 27-1.png" className="rounded-3xl" alt="" />
+                        <img src="https://i.postimg.cc/85qS55gg/Rectangle-27-1.png" className="rounded-3xl" alt="" />
                     </div>
                     <div className="w-[321px] h-[144px] bg-[#343268c7] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-5 relative z-10">
                         <h2 className="text-xl font-medium text-white">Online Doctor Meet</h2>
                         <div className="flex justify-between">
-                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="../src/assets/Group 28.png" alt="" />
+                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="https://i.postimg.cc/CLCghSv9/Group-28.png" alt="" />
                         </div>
                     </div>
                 </div>
                 
                 <div className="relative mt-20">
                     <div>
-                        <img src="../src/assets/Rectangle 27.png" className="rounded-3xl" alt="" />
+                        <img src="https://i.postimg.cc/PfwH7m1X/Rectangle-27.png" className="rounded-3xl" alt="" />
                     </div>
                     <div className="w-[321px] h-[144px] bg-[#343268c7] rounded-3xl flex justify-center flex-col gap-2 px-8 mt-[-11.25rem] ml-5 relative z-10">
                         <h2 className="text-xl font-medium text-white">Consultancy your health</h2>
                         <div className="flex justify-between">
-                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="../src/assets/Group 28.png" alt="" />
+                            <p className="text-gray-400 text-xs">Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>  <img src="https://i.postimg.cc/CLCghSv9/Group-28.png" alt="" />
                         </div>
                     </div>
                 </div>

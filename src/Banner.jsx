@@ -1,7 +1,7 @@
 const Banner = () => {
     const bannerStyle = {
         height: '470px',
-        backgroundImage: ' url("../src/assets/Group 2.png")',
+        backgroundImage: ' url("https://i.postimg.cc/7ZDq0fGx/Group-2.png")',
         backgroundSize: 'cover',
         backgroundPosition: 'center'
     };
